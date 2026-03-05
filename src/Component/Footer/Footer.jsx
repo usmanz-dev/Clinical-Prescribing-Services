@@ -197,7 +197,7 @@ const Footer = () => {
           <div className="flex flex-col lg:flex-row justify-between items-center gap-6">
             <p className="text-gray-400 text-sm text-center lg:text-left">
               © {new Date().getFullYear()} Clinical Prescribing Services  All rights
-              reserved. Powered by Tecnosphere
+              reserved. Powered by Usman Zafar
             </p>
             <div className="flex flex-wrap justify-center lg:justify-end gap-4 lg:gap-6">
               {[
